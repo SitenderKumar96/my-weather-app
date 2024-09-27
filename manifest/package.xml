@@ -28,10 +28,7 @@
 		<members>My_Weather_Config__mdt</members>
 		<name>CustomObject</name>
 	</types>
-	<types>
-		<members>myWeather1</members>
-		<name>ExperienceBundle</name>
-	</types>
+	
 	<types>
 		<members>mwBaseTemplate</members>
 		<members>mwDashboardWrapper</members>
